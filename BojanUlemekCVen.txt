@@ -1,0 +1,46 @@
+﻿CURRICULUM VITAE
+ 
+ 
+Name: Bojan Ulemek
+Email: ubojan@gmail.com
+From: Belgrade, Serbia
+Phone number: +381 63 1106 009
+Date and place of birth: November 29th 1979, Belgrade, Serbia
+ 
+Education:
+• 2005: First Degree Engineer of Computer Science, Belgrade University - Faculty of Electrical Engineering, Belgrade, Serbia
+ 
+Work experiences:
+Full time:
+• Freelance developer, November 2009. - present. Windows and web C# applications, WordPress customization, HTML and CSS coding. Technologies: C#, ASP.NET, HTML, CSS, PHP, MySQL, WordPress, XML.
+Project: Windows application for visualisation and analysis of brain and EKG signals; Client: Advanced Brain Monitoring; Responsibility: Adding application features. Technologies: C#, XML, Windows Forms.
+Project: Oil & Gas Industry website; Client: Clearstone Engineering; Responsibility: Database and backend development. Technologies: C#, ASP.NET, MS Access, HTML, CSS. http://osio.clearstone.ca/
+ 
+• .NET Software Developer, July 2008. - October 2009. Teletrader, Infrastructure team, windows services and console applications for importing data from stock exchange datafeeds, server monitoring and deployment tools. Technologies: C#, .NET, MS SQL, Powershell, XML, Subversion
+ 
+• .NET Software Developer, January-June 2008. Pexim, Human Interfaces team, developing custom GUI controls. Technologies: C#, .NET 3.0, WPF, XML
+ 
+Part time:
+• mechanical and electrical installation projects, 4 years. Technologies: AutoCAD
+• system administration, 2 years. Windows installation/maintenance, user management, local network management
+ 
+Computer skills:
+• C#, .NET Framework, Powershell, MS SQL, Visual Studio, Subversion
+• HTML, CSS, JavaScript, XML, PHP, MySQL, Wordpress, SEO, Adobe Fireworks, Xara Designer Pro
+• MS Office, OpenOffice, Windows, AutoCAD
+• Network administration, Linux
+ 
+Languages:
+• English (advanced writing, reading and conversation skills)
+• Serbian (first language)
+ 
+Skills:
+• Organized, team player with great communication skills
+• Develops relationships and works efficiently with other personnel
+• Hardworking, dynamic, responsible, with self-initiative
+• Highly motivated and ambitious
+ 
+Additional information:
+• Drivers license (B category)
+• Fulfilled military service at Faculty of sports and physical education (2006/2007),
+worked as system administrator in informatics classroom
